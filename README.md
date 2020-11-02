@@ -31,6 +31,10 @@ Tested on:
 * Android TV: `Sony KDL-55W755C` | `Android 9.0`
 * Smartphone: `Samsung SM-A310F` | `Android 7.0`
 
+Issues:
+-------
+* on Sony camera: some issues and artifacts with rendering https://libgdx.badlogicgames.com/ci/nightlies/docs/api/com/badlogic/gdx/graphics/g2d/BitmapFont.html
+
 Screens
 --------------------------
 ![Screen](screen_desktop.png)
