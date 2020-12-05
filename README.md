@@ -13,6 +13,35 @@ Sony Android cameras
 --------------------
 [link](https://github.com/ma1co/OpenMemories-Framework/blob/master/docs/Cameras.md)
 
+Release
+-------
+* version `1.0`
+
+Game input:
+-----------
+* `UP, DOWN, LEFT, RIGHT`
+* For Android smartphone, use screen swipe
+* For Sony camera use, control wheel
+* For Android TV, use remote controls "item select (arrows) 
+
+Installation/Run
+----------------
+* download recent release
+* Android devices:
+  * via ADB
+    * download and install Android SDK
+    * enable ADB on the Android device
+      * for enable ABD on Sony camera described below
+    * open console / terminal
+    * go to the location of APK apk file
+    * use command for install: `adb install snake-1.0.apk`
+    * use command for uninstall: `adb shell pm uninstall pl.sly.game.snake4sony`
+  * or just regular APK installation on your device
+* MS Windows/macOS/Linux:
+  * install JRE
+  * on *nix system:`./run.sh`
+  * or just `$ java -jar snake.jar`
+
 Camera details:
 ---------------
 * LCD: `2.95` inch
