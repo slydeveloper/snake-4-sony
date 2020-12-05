@@ -34,8 +34,9 @@ Installation/Run
       * for enable ABD on Sony camera described below
     * open console / terminal
     * go to the location of APK apk file
-    * use command for install: `adb install snake-1.0.apk`
-    * use command for uninstall: `adb shell pm uninstall pl.sly.game.snake4sony`
+    * use command for install app: `adb install snake.apk`
+    * use command for run app: `adb shell monkey -p pl.sly.game.snake4sony -c android.intent.category.LAUNCHER 1`
+    * use command for uninstall app: `adb shell pm uninstall pl.sly.game.snake4sony`
   * or just regular APK installation on your device
 * MS Windows/macOS/Linux:
   * install JRE
