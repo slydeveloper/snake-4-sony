@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TAG=1.0
+TAG="v1.0"
 
-git tag -a v $TAG -m "Add version $TAG"
+git tag -a $TAG -m "Add version $TAG"
 git push --tags
