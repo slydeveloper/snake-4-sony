@@ -22,7 +22,7 @@ Game input:
 * `UP, DOWN, LEFT, RIGHT`
 * For Android smartphone, use screen swipe
 * For Sony camera use, control wheel
-* For Android TV, use remote control - "item select (arrows) 
+* For Android TV, use remote control - "item select" (arrows) 
 
 Installation/Run
 ----------------
