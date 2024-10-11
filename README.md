@@ -1,8 +1,6 @@
 Snake-4-Sony
 ===============================================================
 
-## Basically, I don't recommend buying Sony products, due crappy support and services. Think twice before you buy.
-
 Long story short. After bought my camera `Sony Alpha A6300 (ILCE6300B)`, I realized that it contains the Android subsystem used to run apps from the `Sony PlayMemories Camera App Store`.
 So I had idea to create some fancy software for it.
 
